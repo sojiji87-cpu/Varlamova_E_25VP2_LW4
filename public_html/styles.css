@@ -1,0 +1,37 @@
+body{
+    font-family: "Courier";
+    font-size: 30px;
+    background-color: #f1f1f1;
+    text-align: left;
+}
+
+.text{
+    text-align: center;
+}
+
+#mini{
+    text-align: left;
+    font-size: 14px;
+}
+
+#title{
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+ font-size: 24px;
+}
+
+.table{
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.table th, .table td{
+    border: 1px solid black;
+    padding: 10px 20px;
+}
